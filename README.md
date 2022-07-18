@@ -3,8 +3,6 @@
 ### I am A Computer Engineering student and a Web developer. <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="30" width="30" align="center" />
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ibrahimov13&label=Profile+Views&color=blue&style=plastic" alt="ibrahimov13"/></p>
-
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][Youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][Twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][Linkedin]
@@ -13,6 +11,10 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/facebook.svg" align="left" />][Facebook]
 
 <br>
+<br>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ibrahimov13&label=Profile+Views&color=blue&style=plastic" alt="ibrahimov13"/></p>
+
 
 
 
