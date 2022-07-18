@@ -1,6 +1,6 @@
 ## Hello, I'm [Sayyad Ibrahimov](https://github.com/ibrahimov13) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimov13&label=Views&color=blue&style=plastic" alt="ibrahimov13" /> </p>
+### I am A Computer Engineering student and a Web developer. <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="30" width="30" align="center" />
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][Youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][Twitter]
@@ -8,8 +8,11 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/github.svg" align="left" />][Github]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][Instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/facebook.svg" align="left" />][Facebook]
+[<img src="https://komarev.com/ghpvc/?username=ibrahimov13&label=Profile+Views&color=blue&style=for-the-badge" alt="ibrahimov13" align="right"/>][Github]
 
 <br>
+
+
 
 ### Languages and Tools:
 
@@ -28,7 +31,7 @@
 
 [Youtube]: https://www.youtube.com
 [Twitter]: https://twitter.com
-[Linkedin]: https://www.linkedin.com
+[Linkedin]: https://www.linkedin.com/in/sayyadibrahimov/
 [Github]: https://github.com
 [Instagram]: https://www.instagram.com
 [Facebook]: https://www.facebook.com
