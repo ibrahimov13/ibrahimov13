@@ -16,18 +16,21 @@
 
 ### Languages and Tools:
 
+
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25"></code>&nbsp;&nbsp;&nbsp;
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25"></code>&nbsp;&nbsp;&nbsp;
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25"></code>&nbsp;&nbsp;&nbsp;
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25"></code>&nbsp;&nbsp;&nbsp;
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25"></code>&nbsp;&nbsp;&nbsp;
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25"></code>&nbsp;&nbsp;&nbsp;
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25"></code>&nbsp;&nbsp;&nbsp;
 
-### :bulb: Github Stats
+### Github Stats
 
-<a href="https://github.com/ibrahimov13"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimov13"></a>
+<a href="https://github.com/ibrahimov13"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimov13&show_icons=true"></a>
 
-### :bulb:  Most Used Languages
+### Most Used Languages
 
-<a href="https://github.com/ibrahimov13"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimov13&layout=compact" ></a>
+<a href="https://github.com/ibrahimov13"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimov13&layout=compact" >
 
 [Youtube]: https://www.youtube.com
 [Twitter]: https://twitter.com
