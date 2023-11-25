@@ -13,14 +13,9 @@
 [<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][Twitter]
 [<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][Instagram]
 [<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/facebook.svg" align="left" />][Facebook]
+[<img src="https://komarev.com/ghpvc/?username=ibrahimov13&label=Profile+Views&color=blue&style=for-the-badge" alt="ibrahimov13"/>][Github]
 
-<br />
-<br />
-<br />
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ibrahimov13&label=Profile+Views&color=blue&style=for-the-badge" alt="ibrahimov13"/></p>
-
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
