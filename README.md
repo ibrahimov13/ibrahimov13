@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sayyad Ibrahimov</h1>
 
-<h3 align="center">Full Stack Developer based in Baku, Azerbaijan. I build ERP systems, real-time platforms, and analytics dashboards. <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="30" width="30" align="center" /></h3>
+<h3 align="center">Full Stack Developer. I build ERP systems, real-time platforms, and analytics dashboards. <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="30" width="30" align="center" /></h3>
 
 <h3 align="left">Connect with me:</h3>
 
