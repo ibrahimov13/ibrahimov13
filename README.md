@@ -8,11 +8,6 @@
 
 [<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" align="left" />][Medium]
 [<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][Linkedin]
-[<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/github.svg" align="left" />][Github]
-[<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][Youtube]
-[<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][Twitter]
-[<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][Instagram]
-[<img  width="30" src="https://unpkg.com/simple-icons@v4/icons/facebook.svg" align="left" />][Facebook]
 [<img src="https://komarev.com/ghpvc/?username=ibrahimov13&label=Profile+Views&color=blue&style=for-the-badge" alt="ibrahimov13"/>][Github]
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,17 +37,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-  
-### Github Stats:
-<a href="https://github.com/ibrahimov13"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimov13&show_icons=true&hide=issues,contribs&theme=tokyonight"></a>
-
-### Most Used Languages:
-<a href="https://github.com/ibrahimov13"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimov13&layout=compact&theme=tokyonight&include_all_commits=true" >
 
 [Medium]: https://www.medium.com
 [Linkedin]: https://www.linkedin.com/in/sayyadibrahimov/
-[Github]: https://github.com/ibrahimov13
-[Youtube]: https://www.youtube.com
-[Twitter]: https://twitter.com
-[Instagram]: https://www.instagram.com
-[Facebook]: https://www.facebook.com
