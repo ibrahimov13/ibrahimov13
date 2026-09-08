@@ -1,9 +1,5 @@
 <a href="https://github.com/ibrahimov13"><img src="https://github.com/ibrahimov13/repository-assets/blob/f3f5a77d63844640d1bea8dbe90dc783f6cb037e/javascript%20gif.gif" width="100%" /></a>
 
-<h1 align="center">Hi 👋, I'm Sayyad Ibrahimov</h1>
-
-<h3 align="center">Full Stack Developer. I build ERP systems, real-time platforms, and analytics dashboards. <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="30" width="30" align="center" /></h3>
-
 <h1 align="center">Hi, I'm Sayyad Ibrahimov</h1>
 
 <p align="center">
