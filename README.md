@@ -50,9 +50,9 @@ MSc in Cybersecurity.
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimov13&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ibrahimov13&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimov13&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimov13&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
