@@ -1,8 +1,8 @@
+<a href="https://github.com/ibrahimov13"><img src="https://github.com/ibrahimov13/repository-assets/blob/f3f5a77d63844640d1bea8dbe90dc783f6cb037e/javascript%20gif.gif" width="100%" /></a>
 <h1 align="center">Hi, I'm Sayyad Ibrahimov</h1>
 
 <p align="center">
-Full Stack Developer. I build ERP systems, real-time platforms, and analytics dashboards,<br>
-with a focus on secure authentication and access control.
+Full Stack Developer. I build ERP systems, real-time platforms, and analytics dashboards.
 </p>
 
 <p align="center">
