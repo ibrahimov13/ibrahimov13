@@ -7,8 +7,8 @@
 <h1 align="center">Hi, I'm Sayyad Ibrahimov</h1>
 
 <p align="center">
-Full Stack Developer. I build ERP systems, real-time platforms, and analytics dashboards.<br>
-MSc in Cybersecurity.
+Full Stack Developer. I build ERP systems, real-time platforms, and analytics dashboards,<br>
+with a focus on secure authentication and access control.
 </p>
 
 <p align="center">
@@ -43,16 +43,4 @@ MSc in Cybersecurity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
-</p>
-
----
-
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ibrahimov13&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimov13&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
